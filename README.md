@@ -13,6 +13,9 @@ Software enthusiast with a passion for building meaningful solutions. When I'm n
 ```
 
 ## 📈 GitHub Stats
-[![GitHub Stats](https://img.shields.io/badge/dynamic/json?color=green&label=GitHub&query=%24.totalStars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Flarsonist)](https://github.com/larsonist)
-[![Profile Views](https://komarev.com/ghpvc/?username=larsonist&color=blue)](https://github.com/larsonist)
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=larsonist&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larsonist&layout=compact&theme=radical)](https://github.com/larsonist/github-readme-stats)
+
+![Profile Views](https://komarev.com/ghpvc/?username=larsonist)
